@@ -1,0 +1,14 @@
+{
+  "name": "dignusimperium",
+  "version": "1.0.0",
+  "description": "Guild Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dall",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
